@@ -1,0 +1,10 @@
+Liste des Commandes :
+
+1 clic sur une unité pour la stocker en mémoire
+Si une unité est stockée en mémoire, les prochains clis feront déplacer l'unité en question
+Touche Echap pour retirer l'unité stockée en mémoire
+Touche F1 pour changer l'unité stockée en Récolteur
+Touche F2 pour changer l'unité stockée en Sentinelle
+Touche F3 pour changer l'unité stockée en Attaquant
+Touche F4 pour créer une nouvelle unité
+Touche Entrée pour établir un mode spécial afin de tester les conditions de victorie et la fin du jeu en faisant apparaître une seule mine d'or
